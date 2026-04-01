@@ -80,14 +80,16 @@ body {
 }
 
 .logo-icon {
-  width: 32px;
-  height: 32px;
+  width: 34px;
+  height: 34px;
 }
 
 .logo-text {
   font-weight: 700;
   font-size: 1.2rem;
-  color: var(--gray-900);
+  color: #0C6B3A;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .nav-center {

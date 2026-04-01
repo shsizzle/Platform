@@ -1,0 +1,11 @@
+{
+  "name": "financial-advisor-platform",
+  "version": "1.0.0",
+  "description": "A platform for financial advisors featuring a social newsfeed, investment manager directory, subscriptions, and data rooms.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["finance", "investment", "advisor", "platform"],
+  "license": "MIT"
+}
